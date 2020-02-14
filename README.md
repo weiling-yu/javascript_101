@@ -2,7 +2,7 @@
 
 ## Overview
 
-#### Scheduled Length: 3 Hours
+#### Scheduled Length: 5 Hours
 
 Hey there! Ready to get your hands dirty with some code? This is the practice exercise repository for Hack Reactor's JavaScript 101 workshop. JavaScript 101 is the first lesson in our free, four-part Introductory JavaScript Series (101, 201, 301 and 401). We're excited to have you.
 
